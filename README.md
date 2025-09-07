@@ -16,9 +16,10 @@ BM:RP is a SourceMod plugin for Black Mesa, adding a roleplay gamemode with role
 
 1. Install a Black Mesa server on Steam (Black Mesa Dedicated Server in your game library) tutorial: https://steamcommunity.com/sharedfiles/filedetails/?id=3495150160
 2. Install MetaMod:Source (https://www.sourcemm.net/downloads.php?branch=stable) and SourceMod (https://www.sourcemod.net/downloads.php?branch=stable) to the latest version
-3. Extract the zip archive into the `bms` folder on your server
-4. Configure the server settings in `cfg/sourcemod/bm_rp.cfg`
-5. Start the server
+3. Install BM:RP (https://github.com/Spirodry/Black-Mesa-RP/releases)
+4. Extract the zip archive into the `bms` folder on your server
+5. Configure the server settings in `cfg/sourcemod/bm_rp.cfg`
+6. Start the server
 
 ## Player Commands
 
